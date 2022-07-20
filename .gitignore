@@ -1,7 +1,13 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+node_modules
+navbar.jsx
+section3.jsx
+slider.jsx
+slider.css
+sliderdes.jsx
+
 /.pnp
 .pnp.js
 
